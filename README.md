@@ -21,6 +21,9 @@ Enhance financial planning by forecasting potential payment delays.
 
 Repository Structure:
 data/: Contains the dataset used for analysis and modeling.
+
 notebooks/: Jupyter notebooks detailing data exploration, preprocessing, modeling, and evaluation.
+
 Presentation slide: Overall presentation in PDF format
+
 README.md: Overview of the project
