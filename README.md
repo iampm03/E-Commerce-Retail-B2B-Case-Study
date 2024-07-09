@@ -1,4 +1,4 @@
-# E-Commerce-Retail-B2B-Case-Study\
+# E-Commerce-Retail-B2B-Case-Study
 
 Predicting Customer Payment Behavior for Schuster
 
@@ -23,4 +23,4 @@ Repository Structure:
 data/: Contains the dataset used for analysis and modeling.
 notebooks/: Jupyter notebooks detailing data exploration, preprocessing, modeling, and evaluation.
 Presentation slide: Overall presentation in PDF format
-README.md: Overview of the project, setup instructions, and usage guidelines.
+README.md: Overview of the project
